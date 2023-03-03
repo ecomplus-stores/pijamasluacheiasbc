@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5ccb0c4b07b010228833f8e8dd7a8094.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b0cac721af76a1faaeae0d96c0d2012b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.4aace9fd7284369477dcebb2b4fcfa36.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.05706b3317ba49ba5eb36ebb9d355511.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a4550ada592b12699fd60b1060ee1fc7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lua Cheia São Bernardo do Campo",
+  "short_name": "LUA CHEIA SBC",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Buscamos oferecer, o que há de mais confortável e bonito. Podendo assim receber visitas inesperadas com um look homewear ou dividir um café-da-manhã na viagem com os amigos e sem preocupação em trocar de roupa com o conforto de um loungewear. Queremos estar presente nos momentos mais especiais de sua vida seja de descanso ou de diversão!",
+  "background_color": "#ffffff",
+  "theme_color": "#2a336f"
+}
