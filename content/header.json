@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Novidades Outono Inverno 2025",
     "link": "",
-    "background": "#2a336f"
+    "background": "#2a336f",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
