@@ -21,7 +21,7 @@
       "/moda-masculino/?Moda Masculina"
     ],
     "random": 7,
-    "full_width": true
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
