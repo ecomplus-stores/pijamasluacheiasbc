@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Envio rápido e seguro"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele suas compras"
   },
   "exchange": {
     "show": false,
