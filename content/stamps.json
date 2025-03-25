@@ -1,3 +1,9 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "img": "/img/uploads/ssl-safe.png",
+      "skus": null,
+      "id": "Conexão Segura"
+    }
+  ]
 }
