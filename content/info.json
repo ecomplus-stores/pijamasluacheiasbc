@@ -1,10 +1,10 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Envio rápido e seguro"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcele suas compras"
   },
   "exchange": {
