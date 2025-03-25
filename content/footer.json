@@ -9,7 +9,7 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -29,16 +29,17 @@
     }
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
     "boleto": false,
     "elo": true,
     "hipercard": true,
-    "bradesco": false,
+    "bradesco": true,
     "mastercard": true,
+    "citibank": true,
     "pix": true,
     "amex": true,
-    "itau": false
+    "itau": true
   },
   "credits": ""
 }
