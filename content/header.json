@@ -1,8 +1,15 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/maternidade?Maternidade",
+      "/chinelos-meias-e-acessorios?Chinelos Meias e Acessórios",
+      "/moda-praia?Moda Praia",
+      "/moda-infantil?Moda Infantil",
+      "/moda-feminina?Moda Feminina",
+      "/moda-masculina?Moda Masculina"
+    ],
     "random": 7,
-    "full_width": true
+    "full_width": false
   },
   "menu_all_departments": true,
   "centralized_logo": false,
