@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "Cálculo de Frete no Minicart",
     "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
