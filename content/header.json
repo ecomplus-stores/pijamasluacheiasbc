@@ -21,7 +21,7 @@
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
   "search_input": true,
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [],
