@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "Envio rápido e seguro"
   },
   "installments": {
-    "show": false,
+    "show": true,
     "text": "Parcele suas compras"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
