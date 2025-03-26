@@ -12,7 +12,7 @@
     "random": 7,
     "full_width": true
   },
-  "menu_all_departments": true,
+  "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
