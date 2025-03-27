@@ -43,7 +43,7 @@
       "type": "brands-carousel",
       "limit": 40,
       "offset": 0,
-      "sort": "name",
+      "sort": null,
       "autoplay": 0
     },
     {
