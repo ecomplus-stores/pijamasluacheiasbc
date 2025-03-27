@@ -1,6 +1,6 @@
 {
   "pkg": "@ecomplus/widget-minicart",
-  "active": true,
+  "active": false,
   "desktopOnly": false,
   "options": {
     "strHasShippingCalculator": "_"
