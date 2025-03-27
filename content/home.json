@@ -34,10 +34,17 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "news",
-      "title": "",
+      "title": "Lançamentos",
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 1000
     },
     {
       "type": "page-title",
