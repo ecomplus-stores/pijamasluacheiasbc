@@ -44,7 +44,7 @@
       "limit": 35,
       "offset": 0,
       "sort": "name",
-      "autoplay": 3000
+      "autoplay": 0
     },
     {
       "type": "page-title",
