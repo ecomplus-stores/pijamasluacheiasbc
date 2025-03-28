@@ -1,5 +1,5 @@
 {
-  "css": "/* TAMANHO DA FONTE DO PRODUTO */\n.product__name {\n font-size: 20px !important;\n}\n\n",
+  "css": "/* TAMANHO DA FONTE DO PRODUTO */\n.product__name {\n font-size: 20px !important;\n color: #2a336c !important;\n}\n\n",
   "html_head": "<!-- AdOpt LGPD Code -->\n<meta name=\"adopt-website-id\" content=\"ce4f4a3d-0b3b-4589-ab5c-88806744dc21\" />\n<script src=\"//tag.goadopt.io/injector.js?website_code=ce4f4a3d-0b3b-4589-ab5c-88806744dc21\" class=\"adopt-injector\"></script>\n<!-- End AdOpt LGPD Code -->",
   "html_body": "<a href=\"https://linktr.ee/luacheiasbc\" style=\"position:fixed;width:45px;height:45px;bottom:50px;background-color:#25d366;color:#FFF;border-radius:25px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:50px;\" target=\"_blank\">\n<i style=\"margin-top:10px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
