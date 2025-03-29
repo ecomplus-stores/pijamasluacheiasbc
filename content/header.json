@@ -16,7 +16,9 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Lançamentos Outono Inverno 2025!",
-    "link": ""
+    "link": "",
+    "background": "#ffffff",
+    "color": "#2a336c"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
