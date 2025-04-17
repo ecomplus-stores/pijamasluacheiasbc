@@ -20384,6 +20384,24 @@
     </url>
   
     <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/live-camiseta-minimal-kids</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/live-regata-action-canyon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/malwee-pijama-familia-super-filho-em-algodao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://pijamasluacheiasbc.netlify.app/marca/lua-cheia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -20588,12 +20606,6 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://pijamasluacheiasbc.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -20619,6 +20631,12 @@
   
     <url>
       <loc>https://pijamasluacheiasbc.netlify.app/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
