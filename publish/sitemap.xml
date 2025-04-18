@@ -10034,6 +10034,30 @@
     </url>
   
     <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/daniela-tombini-blusa-manoela-gola-alta-thermo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/daniela-tombini-blusa-verona-gola-alta-canelada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/daniela-tombini-blusa-verona-canelada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/daniela-tombini-camisola-midi-com-renda-brisa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://pijamasluacheiasbc.netlify.app/marca/lua-cheia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -10256,13 +10280,13 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/termos</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/sobre-nos</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
