@@ -33,6 +33,11 @@
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
