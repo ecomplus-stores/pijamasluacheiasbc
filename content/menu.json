@@ -1,6 +1,8 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": true,
+  "sort_categories": [
+    "maternidade/"
+  ],
+  "alphabetical_order": false,
   "phone_wpp": false,
   "socials": false
 }
