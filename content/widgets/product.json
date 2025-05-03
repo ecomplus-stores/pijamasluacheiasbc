@@ -5,10 +5,10 @@
   "options": {
     "buyText": "Comprar",
     "buy": "",
-    "strHasQuantitySelector": "true",
+    "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
-    "maxVariationOptionsBtns": 7,
+    "maxVariationOptionsBtns": 6,
     "quoteInfo": ""
   }
 }
