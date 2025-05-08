@@ -6,9 +6,10 @@
     "moda-praia/",
     "moda-infantil/",
     "moda-feminina/",
-    "moda-masculino/"
+    "moda-masculino/",
+    "pijama-familia/"
   ],
-  "alphabetical_order": false,
+  "alphabetical_order": true,
   "phone_wpp": false,
   "socials": false
 }
