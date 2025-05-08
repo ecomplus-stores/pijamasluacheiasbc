@@ -47,7 +47,12 @@
       "collection_ids": [
         "68012836ef51eb1c90d4b348:categories:Acessórios em geral:/acessorios/"
       ],
-      "sort": "news"
+      "sort": null
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     },
     {
       "type": "brands-carousel",
