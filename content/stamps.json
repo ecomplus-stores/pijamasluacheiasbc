@@ -1,3 +1,11 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "id": "Cores",
+      "img": "/img/uploads/modelotag.png",
+      "skus": [
+        "7092"
+      ]
+    }
+  ]
 }
