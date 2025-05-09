@@ -49,21 +49,6 @@
       "headless": false
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": true,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "68012836ef51eb1c90d4b348:categories:Acessórios em geral:/acessorios/"
-      ],
-      "sort": null
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
       "type": "brands-carousel",
       "limit": 40,
       "offset": 0,
