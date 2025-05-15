@@ -1,1 +1,75 @@
 // Add your custom CSS here.
+#collapse-tamanho_vestuario {
+  display: flex;
+  flex-direction: column;
+}
+
+[data-opt="Único"] { order: 1; }
+[data-opt="Prematuro"] { order: 2; }
+[data-opt="RN"] { order: 3; }
+[data-opt="00 a 03 meses"] { order: 4; }
+[data-opt="03 a 06 meses"] { order: 5; }
+[data-opt="06 a 09 meses"] { order: 6; }
+[data-opt="09 a 12 meses"] { order: 7; }
+[data-opt="12 a 18 meses"] { order: 8; }
+[data-opt="18 a 24 meses"] { order: 9; }
+[data-opt="24 a 36 meses"] { order: 10; }
+[data-opt="PP"] { order: 11; }
+[data-opt="P"] { order: 12; }
+[data-opt="M"] { order: 13; }
+[data-opt="G"] { order: 14; }
+[data-opt="GG"] { order: 15; }
+[data-opt="XG"] { order: 16; }
+[data-opt="XGG"] { order: 17; }
+[data-opt="EXG"] { order: 18; }
+[data-opt="EXGG"] { order: 19; }
+[data-opt="G1"] { order: 20; }
+[data-opt="G2"] { order: 21; }
+[data-opt="G3"] { order: 22; }
+[data-opt="G4"] { order: 23; }
+[data-opt="G5"] { order: 24; }
+[data-opt="00"] { order: 25; }
+[data-opt="01"] { order: 26; }
+[data-opt="02"] { order: 27; }
+[data-opt="03"] { order: 28; }
+[data-opt="04"] { order: 29; }
+[data-opt="05"] { order: 30; }
+[data-opt="06"] { order: 31; }
+[data-opt="07"] { order: 32; }
+[data-opt="08"] { order: 33; }
+[data-opt="09"] { order: 34; }
+[data-opt="10"] { order: 35; }
+[data-opt="11"] { order: 36; }
+[data-opt="12"] { order: 37; }
+[data-opt="13"] { order: 38; }
+[data-opt="14"] { order: 39; }
+[data-opt="15"] { order: 40; }
+[data-opt="16"] { order: 41; }
+[data-opt="17"] { order: 42; }
+[data-opt="18"] { order: 43; }
+[data-opt="34"] { order: 44; }
+[data-opt="36"] { order: 45; }
+[data-opt="38"] { order: 46; }
+[data-opt="40"] { order: 47; }
+[data-opt="42"] { order: 48; }
+[data-opt="44"] { order: 49; }
+[data-opt="46"] { order: 50; }
+[data-opt="48"] { order: 51; }
+[data-opt="50"] { order: 52; }
+[data-opt="52"] { order: 53; }
+[data-opt="54"] { order: 54; }
+[data-opt="56"] { order: 55; }
+[data-opt="58"] { order: 56; }
+[data-opt="60"] { order: 57; }
+[data-opt="P/M"] { order: 58; }
+[data-opt="G/GG"] { order: 59; }
+[data-opt="02-04"] { order: 60; }
+[data-opt="06-08"] { order: 61; }
+[data-opt="10-12"] { order: 62; }
+[data-opt="14-16"] { order: 63; }
+[data-opt="A"] { order: 64; }
+[data-opt="B"] { order: 65; }
+[data-opt="C"] { order: 66; }
+[data-opt="D"] { order: 67; }
+[data-opt="E"] { order: 68; }
+[data-opt="F"] { order: 69; }
