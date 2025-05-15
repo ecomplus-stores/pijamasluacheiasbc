@@ -73,3 +73,75 @@
 [data-opt="D"] { order: 67; }
 [data-opt="E"] { order: 68; }
 [data-opt="F"] { order: 69; }
+
+#collapse-tamanho_calcado {
+  display: flex;
+  flex-direction: column;
+}
+
+[data-opt="Único"] { order: 1; }
+[data-opt="Prematuro"] { order: 2; }
+[data-opt="RN"] { order: 3; }
+[data-opt="00 a 03 meses"] { order: 4; }
+[data-opt="03 a 06 meses"] { order: 5; }
+[data-opt="06 a 09 meses"] { order: 6; }
+[data-opt="09 a 12 meses"] { order: 7; }
+[data-opt="12 a 18 meses"] { order: 8; }
+[data-opt="18 a 24 meses"] { order: 9; }
+[data-opt="24 a 36 meses"] { order: 10; }
+[data-opt="PP"] { order: 11; }
+[data-opt="P"] { order: 12; }
+[data-opt="M"] { order: 13; }
+[data-opt="G"] { order: 14; }
+[data-opt="GG"] { order: 15; }
+[data-opt="09/10"] { order: 16; }
+[data-opt="11/12"] { order: 17; }
+[data-opt="13/14"] { order: 18; }
+[data-opt="15/16"] { order: 19; }
+[data-opt="17/18"] { order: 20; }
+[data-opt="19/20"] { order: 21; }
+[data-opt="21/22"] { order: 22; }
+[data-opt="23/24"] { order: 23; }
+[data-opt="25/26"] { order: 24; }
+[data-opt="27/28"] { order: 25; }
+[data-opt="29/30"] { order: 26; }
+[data-opt="31/32"] { order: 27; }
+[data-opt="33/34"] { order: 28; }
+[data-opt="35/36"] { order: 29; }
+[data-opt="37/38"] { order: 30; }
+[data-opt="39/40"] { order: 31; }
+[data-opt="41/42"] { order: 32; }
+[data-opt="43/44"] { order: 33; }
+[data-opt="45/46"] { order: 34; }
+[data-opt="47/48"] { order: 35; }
+[data-opt="49/50"] { order: 36; }
+[data-opt="34/35"] { order: 37; }
+[data-opt="36/37"] { order: 38; }
+[data-opt="38/39"] { order: 39; }
+[data-opt="40/41"] { order: 40; }
+[data-opt="42/43"] { order: 41; }
+[data-opt="44/45"] { order: 42; }
+[data-opt="46/47"] { order: 43; }
+[data-opt="48/49"] { order: 44; }
+
+#collapse-tamanho_acessorios {
+  display: flex;
+  flex-direction: column;
+}
+
+[data-opt="Único"] { order: 1; }
+[data-opt="Prematuro"] { order: 2; }
+[data-opt="RN"] { order: 3; }
+[data-opt="00 a 03 meses"] { order: 4; }
+[data-opt="03 a 06 meses"] { order: 5; }
+[data-opt="06 a 09 meses"] { order: 6; }
+[data-opt="09 a 12 meses"] { order: 7; }
+[data-opt="12 a 18 meses"] { order: 8; }
+[data-opt="18 a 24 meses"] { order: 9; }
+[data-opt="24 a 36 meses"] { order: 10; }
+[data-opt="PP"] { order: 11; }
+[data-opt="P"] { order: 12; }
+[data-opt="M"] { order: 13; }
+[data-opt="G"] { order: 14; }
+[data-opt="GG"] { order: 15; }
+
