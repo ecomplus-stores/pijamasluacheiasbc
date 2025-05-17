@@ -33,13 +33,9 @@
       "enabled": false
     },
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/bannergridms.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/mensageiro-dos-sonhos-capivara/"
         }
