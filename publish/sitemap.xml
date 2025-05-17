@@ -25436,13 +25436,13 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/privacidade</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/pagamentos</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -25454,13 +25454,13 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/termos</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/trocas</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
