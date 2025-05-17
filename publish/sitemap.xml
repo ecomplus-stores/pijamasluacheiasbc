@@ -25424,13 +25424,13 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/faq</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/entrega</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -25454,13 +25454,13 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/termos</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/pages/trocas</loc>
+      <loc>https://pijamasluacheiasbc.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -25496,12 +25496,6 @@
     </url>
   
     <url>
-      <loc>https://pijamasluacheiasbc.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://pijamasluacheiasbc.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -25511,6 +25505,12 @@
       <loc>https://pijamasluacheiasbc.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://pijamasluacheiasbc.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
