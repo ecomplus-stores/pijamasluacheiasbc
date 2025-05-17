@@ -33,6 +33,19 @@
       "enabled": false
     },
     {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bannergridms.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/mensageiro-dos-sonhos-capivara/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -50,15 +63,6 @@
       "collection_id": "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
       "sort": "news",
       "headless": false
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bannergridms.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/mensageiro-dos-sonhos-capivara/"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
