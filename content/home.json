@@ -36,6 +36,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bannergriddtsurf.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/dt-surf/"
+        },
+        {
           "img": "/img/uploads/bannergriddtsummer.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/dt-summer/"
         },
