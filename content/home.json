@@ -20,6 +20,13 @@
           "img": "/img/uploads/fitaupoutono.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/marca/fita-up",
           "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/puffoutono.jpg",
+          "mobile_img": "/img/uploads/puffoutono25mobile.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/chinelos-puff"
         }
       ]
     },
