@@ -24,16 +24,16 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/puffoutono.jpg",
-          "mobile_img": "/img/uploads/puffoutono25mobile.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/chinelos-puff"
+          "img": "/img/uploads/lcoutono.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
+          "mobile_img": "/img/uploads/lcoutono25mobile.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/lcoutono.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
-          "mobile_img": "/img/uploads/lcoutono25mobile.jpg"
+          "img": "/img/uploads/puffoutono.jpg",
+          "mobile_img": "/img/uploads/puffoutono25mobile.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/chinelos-puff"
         }
       ]
     },
