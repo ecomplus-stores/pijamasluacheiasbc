@@ -36,6 +36,19 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bannergridveggilooney.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/veggi-looney-tunes/"
+        },
+        {
+          "img": "/img/uploads/bannergridveggihp.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/veggi-hogwarts/"
+        },
+        {
+          "img": "/img/uploads/bannergridmscapivara.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/mensageiro-dos-sonhos-capivara/",
+          "alt": ""
+        },
+        {
           "img": "/img/uploads/bannergriddtsurf.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/dt-surf/"
         },
@@ -52,21 +65,8 @@
           "link": "https://pijamasluacheiasbc.netlify.app/ms-caranguejos/"
         },
         {
-          "img": "/img/uploads/bannergridmscapivara.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/mensageiro-dos-sonhos-capivara/",
-          "alt": ""
-        },
-        {
           "img": "/img/uploads/bannergridmsnatal.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/ms-natal/"
-        },
-        {
-          "img": "/img/uploads/bannergridveggihp.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/veggi-hogwarts/"
-        },
-        {
-          "img": "/img/uploads/bannergridveggilooney.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/veggi-looney-tunes/"
         }
       ]
     },
