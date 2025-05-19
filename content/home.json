@@ -95,6 +95,10 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 10000
+    },
+    {
+      "type": "page-title",
+      "title": "Pijama Familia"
     }
   ]
 }
