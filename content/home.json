@@ -33,6 +33,10 @@
       "enabled": false
     },
     {
+      "type": "page-title",
+      "title": "Pijama Familia"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -95,10 +99,6 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 10000
-    },
-    {
-      "type": "page-title",
-      "title": "Pijama Familia"
     }
   ]
 }
