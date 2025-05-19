@@ -33,10 +33,6 @@
       "enabled": false
     },
     {
-      "type": "page-title",
-      "title": "Pijama Familia"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
