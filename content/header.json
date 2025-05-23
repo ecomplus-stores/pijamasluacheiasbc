@@ -12,7 +12,7 @@
     "random": 0,
     "full_width": true
   },
-  "menu_all_departments": true,
+  "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Outono Inverno 2025!",
