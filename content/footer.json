@@ -22,10 +22,15 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/iconssl.png",
       "alt": "Secure connection",
       "width": 150,
       "height": 62
+    },
+    {
+      "src": "/img/uploads/icongoogle.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.pijamasluacheiasbc.com.br%2F&hl=pt_PT",
+      "alt": "Google"
     }
   ],
   "payment_methods": {
