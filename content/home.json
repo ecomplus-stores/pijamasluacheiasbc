@@ -94,6 +94,18 @@
       "autoplay": 100
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
+        "682766ee578b5f79541a5516:categories:Máscara de Dormir:/mascara-de-dormir"
+      ],
+      "shelfs_title": "Acessórios que fazem a diferença",
+      "autoplay": 0
+    },
+    {
       "type": "brands-carousel",
       "limit": 40,
       "offset": 0,
