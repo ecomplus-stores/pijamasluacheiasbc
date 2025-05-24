@@ -47,6 +47,15 @@
       "enabled": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 11,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos",
+      "autoplay": 100
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -83,18 +92,6 @@
           "link": "https://pijamasluacheiasbc.netlify.app/ms-natal/"
         }
       ]
-    },
-    {
-      "autoplay": 100,
-      "page": 10,
-      "title": "Acessórios que fazem a diferença",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": 24,
-      "collection_id": "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
-      "sort": "news"
     },
     {
       "type": "shelfs-nav",
