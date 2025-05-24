@@ -100,11 +100,9 @@
       "limit": 12,
       "page": 3,
       "collection_ids": [
-        "68276a44578b5f79541a59c4:categories:Bandana:/bandana",
         "68276b93578b5f79541a5b47:categories:Fitness:/fitness",
         "682766ee578b5f79541a5516:categories:Máscara de Dormir:/mascara-de-dormir",
-        "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
-        "68276889578b5f79541a57a9:categories:Pelúcia:/pelucia"
+        "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire"
       ],
       "sort": "news",
       "shelfs_title": "Acessórios perfeitos para você",
