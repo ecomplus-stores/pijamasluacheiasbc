@@ -108,7 +108,7 @@
       ],
       "sort": "news",
       "shelfs_title": "Acessórios perfeitos para você",
-      "autoplay": 1000
+      "autoplay": 500
     },
     {
       "type": "collection-shelf",
