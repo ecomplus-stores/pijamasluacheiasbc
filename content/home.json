@@ -85,14 +85,16 @@
       ]
     },
     {
-      "type": "collection-shelf",
+      "autoplay": 100,
+      "page": 10,
+      "title": "Acessórios que fazem a diferença",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "news",
-      "title": "Lançamentos",
       "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 24,
+      "collection_id": "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
+      "sort": "news"
     },
     {
       "type": "shelfs-nav",
