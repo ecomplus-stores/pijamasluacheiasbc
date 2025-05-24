@@ -91,7 +91,7 @@
       "page": 1,
       "sort": "news",
       "title": "Lançamentos",
-      "autoplay": ""
+      "autoplay": 0
     },
     {
       "type": "shelfs-nav",
