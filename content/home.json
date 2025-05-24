@@ -106,7 +106,7 @@
       ],
       "sort": "news",
       "shelfs_title": "Acessórios perfeitos para você",
-      "autoplay": 500
+      "autoplay": 0
     },
     {
       "type": "brands-carousel",
