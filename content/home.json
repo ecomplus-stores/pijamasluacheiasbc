@@ -91,7 +91,7 @@
       "page": 1,
       "sort": "news",
       "title": "Lançamentos",
-      "autoplay": 100
+      "autoplay": 0
     },
     {
       "type": "shelfs-nav",
@@ -103,7 +103,7 @@
         "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
         "68276b93578b5f79541a5b47:categories:Fitness:/fitness"
       ],
-      "shelfs_title": "Acessórios que fazem a diferença",
+      "shelfs_title": "Acessórios que fazem a diferença!",
       "autoplay": 0
     },
     {
