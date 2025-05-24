@@ -47,15 +47,6 @@
       "enabled": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 11,
-      "page": 1,
-      "sort": "news",
-      "title": "Lançamentos",
-      "autoplay": 100
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -92,6 +83,15 @@
           "link": "https://pijamasluacheiasbc.netlify.app/ms-natal/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 11,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos",
+      "autoplay": 100
     },
     {
       "type": "shelfs-nav",
