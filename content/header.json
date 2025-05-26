@@ -22,7 +22,7 @@
   },
   "alphabetical_order_submenu": true,
   "name_all_departments": "",
-  "search_input": false,
+  "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
