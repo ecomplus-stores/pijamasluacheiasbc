@@ -38,11 +38,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/modelotarja.png",
-      "mobile_img": "/img/uploads/modelotarja.png"
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
@@ -112,6 +107,11 @@
       "offset": 0,
       "sort": null,
       "autoplay": 10000
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/modelotarja.png",
+      "mobile_img": "/img/uploads/modelotarja.png"
     }
   ]
 }
