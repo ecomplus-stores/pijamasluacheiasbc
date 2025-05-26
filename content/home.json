@@ -42,28 +42,6 @@
       "enabled": false
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_ids": [
-        "682766ee578b5f79541a5516:categories:Máscara de Dormir:/mascara-de-dormir",
-        "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
-        "68276b93578b5f79541a5b47:categories:Fitness:/fitness"
-      ],
-      "shelfs_title": "Acessórios que fazem a diferença!",
-      "autoplay": 0
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "Lançamentos",
-      "autoplay": 0
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -100,6 +78,28 @@
           "link": "https://pijamasluacheiasbc.netlify.app/ms-natal/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos",
+      "autoplay": 0
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "682766ee578b5f79541a5516:categories:Máscara de Dormir:/mascara-de-dormir",
+        "6827620e578b5f79541a4f3e:categories:Necessaire:/necessaire",
+        "68276b93578b5f79541a5b47:categories:Fitness:/fitness"
+      ],
+      "shelfs_title": "Acessórios que fazem a diferença!",
+      "autoplay": 0
     },
     {
       "type": "brands-carousel",
