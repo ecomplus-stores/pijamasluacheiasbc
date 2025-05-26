@@ -38,13 +38,13 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": false
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/modelotarja.png",
       "mobile_img": "/img/uploads/modelotarja.png"
+    },
+    {
+      "type": "info-bar",
+      "enabled": false
     },
     {
       "type": "collection-shelf",
