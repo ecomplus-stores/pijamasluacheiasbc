@@ -106,7 +106,7 @@
       "limit": 40,
       "offset": 0,
       "sort": null,
-      "autoplay": 35000
+      "autoplay": 5000
     },
     {
       "type": "responsive-banner",
