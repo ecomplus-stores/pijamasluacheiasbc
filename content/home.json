@@ -86,7 +86,7 @@
       "page": 1,
       "sort": "news",
       "title": "Novidades",
-      "autoplay": 0
+      "autoplay": 5000
     },
     {
       "type": "shelfs-nav",
