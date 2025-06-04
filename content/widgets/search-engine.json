@@ -3,6 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "pagination": false
+    "pagination": false,
+    "maxFacetsPerField": 999
   }
 }
