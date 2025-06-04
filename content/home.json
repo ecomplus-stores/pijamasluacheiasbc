@@ -51,6 +51,19 @@
       "autoplay": 5000
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bannerpijamafamilia.jpg",
+          "mobile_img": "/img/uploads/bannerfamilia.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/bannerpijamafamilia.jpg",
       "mobile_img": "/img/uploads/bannerpijamafamilia.jpg"
