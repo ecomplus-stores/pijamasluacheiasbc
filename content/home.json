@@ -42,6 +42,15 @@
       "enabled": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Novidades",
+      "autoplay": 5000
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/bannerpijamafamilia.jpg",
       "mobile_img": "/img/uploads/bannerpijamafamilia.jpg"
@@ -83,15 +92,6 @@
           "link": "https://pijamasluacheiasbc.netlify.app/ms-natal/"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "Novidades",
-      "autoplay": 5000
     },
     {
       "type": "shelfs-nav",
