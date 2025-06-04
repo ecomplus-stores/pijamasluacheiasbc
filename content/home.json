@@ -106,16 +106,16 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/modelotarja.png",
+      "mobile_img": "/img/uploads/modelotarja.png"
+    },
+    {
       "type": "brands-carousel",
       "limit": 40,
       "offset": 0,
       "sort": null,
       "autoplay": 5000
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/modelotarja.png",
-      "mobile_img": "/img/uploads/modelotarja.png"
     }
   ]
 }
