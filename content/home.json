@@ -102,17 +102,8 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bannerpijamafamilia.jpg",
-          "mobile_img": ""
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannerfamilia.jpg"
     },
     {
       "type": "brands-carousel",
