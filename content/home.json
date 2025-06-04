@@ -42,6 +42,11 @@
       "enabled": false
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannerfamilia.jpg",
+      "mobile_img": "/img/uploads/bannerfamilia.jpg"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
