@@ -27,7 +27,7 @@
     },
     {
       "type": "buy-together",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "brands-carousel",
