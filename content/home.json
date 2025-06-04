@@ -44,13 +44,17 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": 12,
       "page": 1,
       "collection_ids": [
-        "68012861ef51eb1c90d4b3df:categories:Mensageiro Dos Sonhos:/mensageiro-dos-sonhos/"
+        "68012861ef51eb1c90d4b3df:categories:Mensageiro Dos Sonhos:/mensageiro-dos-sonhos/",
+        "6801284bef51eb1c90d4b393:categories:Daniela Tombini:/daniela-tombini/",
+        "68012865ef51eb1c90d4b3ed:categories:Universo Toque:/universo-toque/",
+        "68012871ef51eb1c90d4b410:categories:Veggi:/veggi/"
       ],
       "sort": "news",
-      "shelfs_title": "“Neste Dia dos Namorados, troque o look por conforto e romance. Descubra nossos pijamas perfeitos para amar e relaxar juntinhos!”"
+      "shelfs_title": "“Neste Dia dos Namorados, troque o look por conforto e romance. Descubra nossos pijamas perfeitos para amar e relaxar juntinhos!”",
+      "autoplay": 5000
     },
     {
       "type": "collection-shelf",
