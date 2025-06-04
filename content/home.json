@@ -42,6 +42,17 @@
       "enabled": false
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "68012861ef51eb1c90d4b3df:categories:Mensageiro Dos Sonhos:/mensageiro-dos-sonhos/"
+      ],
+      "sort": "news",
+      "shelfs_title": "“Neste Dia dos Namorados, troque o look por conforto e romance. Descubra nossos pijamas perfeitos para amar e relaxar juntinhos!”"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
