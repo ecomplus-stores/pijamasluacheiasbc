@@ -64,11 +64,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bannerpijamafamilia.jpg",
-      "mobile_img": "/img/uploads/bannerpijamafamilia.jpg"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
