@@ -4,6 +4,8 @@
   "desktopOnly": false,
   "options": {
     "pagination": false,
-    "maxFacetsPerField": 999
+    "searchOptions": {
+      "maxFacetsPerField": 999
+    }
   }
 }
