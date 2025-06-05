@@ -4,6 +4,6 @@
   "desktopOnly": false,
   "options": {
     "pagination": false,
-    "maxFacetsPerField": 999,
+    "maxFacetsPerField": 999
   }
 }
