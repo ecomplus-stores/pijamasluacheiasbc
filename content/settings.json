@@ -1,9 +1,9 @@
 {
-  "domain": "pijamasluacheiasbc.netlify.app",
+  "domain": "www.pijamasluacheiasbc.com.br",
   "currency_symbol": "R$",
   "primary_color": "#13294b",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cerulean",
     "custom": "_"
   },
   "bg_color": "#ffffff",
