@@ -79,10 +79,6 @@
       "autoplay": 5000
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bannerfamilia.jpg"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
