@@ -42,6 +42,15 @@
       "enabled": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Novidades",
+      "autoplay": 5000
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 12,
@@ -52,16 +61,7 @@
         "68012871ef51eb1c90d4b410:categories:Veggi:/veggi/"
       ],
       "sort": "news",
-      "shelfs_title": "Dia dos Namorados",
-      "autoplay": 5000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "Novidades",
+      "shelfs_title": "💙Dia dos Namorados",
       "autoplay": 5000
     },
     {
