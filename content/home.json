@@ -78,6 +78,19 @@
       "autoplay": 5000
     },
     {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/familiadesktop.jpg",
+          "mobile_img": "/img/uploads/familiamobile.jpg"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
