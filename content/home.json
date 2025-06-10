@@ -44,7 +44,7 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 12,
+      "limit": 1,
       "page": 12,
       "collection_ids": [
         "68012861ef51eb1c90d4b3df:categories:Mensageiro Dos Sonhos:/mensageiro-dos-sonhos/",
