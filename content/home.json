@@ -73,15 +73,22 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/fitaupoutono.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/marca/fita-up",
-          "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg"
+          "img": "/img/uploads/desktoplcoutono.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
+          "mobile_img": "/img/uploads/mobilelcoutono25.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ag25outono.jpg",
+          "mobile_img": "/img/uploads/aagoutono25mobile.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/alto-giro"
         }
       ]
     },
@@ -114,22 +121,15 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktoplcoutono.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
-          "mobile_img": "/img/uploads/mobilelcoutono25.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/ag25outono.jpg",
-          "mobile_img": "/img/uploads/aagoutono25mobile.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/alto-giro"
+          "img": "/img/uploads/fitaupoutono.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/marca/fita-up",
+          "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg"
         }
       ]
     },
