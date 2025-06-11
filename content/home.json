@@ -95,20 +95,6 @@
           "img": "/img/uploads/ag25outono.jpg",
           "mobile_img": "/img/uploads/aagoutono25mobile.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/marca/alto-giro"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/fitaupoutono.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/fita-up",
-          "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/puffoutono.jpg",
-          "mobile_img": "/img/uploads/puffoutono25mobile.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/chinelos-puff"
         }
       ]
     },
@@ -145,12 +131,6 @@
       "offset": 0,
       "sort": null,
       "autoplay": 0
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     }
   ]
 }
