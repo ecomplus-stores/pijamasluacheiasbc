@@ -86,36 +86,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6801281bef51eb1c90d4b2f5:brands:Fita Up:/marca/fita-up",
-      "sort": "news",
-      "title": ""
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktoplcoutono.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
-          "mobile_img": "/img/uploads/mobilelcoutono25.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/ag25outono.jpg",
-          "mobile_img": "/img/uploads/aagoutono25mobile.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/alto-giro"
-        }
-      ]
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 12,
@@ -141,6 +111,36 @@
       ],
       "shelfs_title": "Acessórios que fazem a diferença!",
       "autoplay": 5000
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktoplcoutono.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
+          "mobile_img": "/img/uploads/mobilelcoutono25.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ag25outono.jpg",
+          "mobile_img": "/img/uploads/aagoutono25mobile.jpg",
+          "link": "https://pijamasluacheiasbc.netlify.app/marca/alto-giro"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6801281bef51eb1c90d4b2f5:brands:Fita Up:/marca/fita-up",
+      "sort": "news",
+      "title": ""
     },
     {
       "type": "brands-carousel",
