@@ -16,6 +16,15 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": false
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/modelotarja.png",
+      "mobile_img": "/img/uploads/modelotarja.png"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -54,6 +63,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Novidades",
+      "autoplay": 5000
+    },
+    {
       "type": "banner-slider",
       "autoplay": 5000,
       "full_width": true,
@@ -89,19 +107,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "Novidades",
-      "autoplay": 5000
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 12,
@@ -127,11 +132,6 @@
       ],
       "shelfs_title": "Acessórios que fazem a diferença!",
       "autoplay": 5000
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/modelotarja.png",
-      "mobile_img": "/img/uploads/modelotarja.png"
     },
     {
       "type": "brands-carousel",
