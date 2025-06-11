@@ -72,10 +72,27 @@
       "autoplay": 5000
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fitaupoutono.jpg",
-      "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg",
-      "link": "https://pijamasluacheiasbc.com.br/marca/fita-up"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/fitaupoutono.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/marca/fita-up",
+          "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6801281bef51eb1c90d4b2f5:brands:Fita Up:/marca/fita-up",
+      "sort": "news",
+      "title": ""
     },
     {
       "type": "banner-slider",
