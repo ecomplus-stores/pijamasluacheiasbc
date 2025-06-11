@@ -72,6 +72,12 @@
       "autoplay": 5000
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fitaupoutono.jpg",
+      "mobile_img": "/img/uploads/fitaupoutono25mobile.jpg",
+      "link": "https://pijamasluacheiasbc.com.br/marca/fita-up"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 5000,
       "full_width": true,
@@ -139,6 +145,12 @@
       "offset": 0,
       "sort": null,
       "autoplay": 0
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
