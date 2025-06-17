@@ -42,7 +42,7 @@
     "bradesco": true,
     "mastercard": true,
     "citibank": true,
-    "pix": true,
+    "pix": false,
     "amex": true,
     "itau": true
   },
