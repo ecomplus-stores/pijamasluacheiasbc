@@ -25754,6 +25754,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/malwee-blusa-basica-baby-look-algodao-c526</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -25838,15 +25844,15 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
