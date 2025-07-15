@@ -26576,13 +26576,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -26600,13 +26600,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
