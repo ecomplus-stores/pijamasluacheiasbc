@@ -79,9 +79,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktoplcoutono.jpg",
-          "link": "https://pijamasluacheiasbc.netlify.app/marca/lua-cheia",
-          "mobile_img": "/img/uploads/mobilelcoutono25.jpg"
+          "img": "/img/uploads/desktopliveorigins.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/marca/live",
+          "mobile_img": "/img/uploads/mobileliveorigins.jpg"
         },
         {
           "start": "",
@@ -89,6 +89,20 @@
           "img": "/img/uploads/ag25outono.jpg",
           "mobile_img": "/img/uploads/aagoutono25mobile.jpg",
           "link": "https://pijamasluacheiasbc.netlify.app/marca/alto-giro"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktopvivame.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/marca/vivame",
+          "mobile_img": "/img/uploads/mobilevivame.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktopzeroacucar.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/marca/zero-acucar",
+          "mobile_img": "/img/uploads/mobilezeoacucar.jpg"
         }
       ]
     },
