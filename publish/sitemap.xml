@@ -27398,6 +27398,18 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/zero-acucar-legging-garden-bolso-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/zero-acucar-legging-garden-bolso-garden</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/marca/lua-cheia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -27674,15 +27686,15 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
