@@ -28,6 +28,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bannergridreccocarinhojpg.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/recco-new-skin-carinho"
+        },
+        {
           "img": "/img/uploads/bannergridreccotwo.jpg",
           "link": "https://pijamasluacheiasbc.com.br/recco-golden",
           "mobile_img": ""
