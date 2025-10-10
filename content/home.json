@@ -71,8 +71,9 @@
           "link": "https://pijamasluacheiasbc.com.br/ms-caranguejos/"
         },
         {
-          "img": "/img/uploads/bannergridmsnatal.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/ms-natal/"
+          "img": "/img/uploads/bannergridmsnatal25.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/ms-natal/",
+          "mobile_img": "/img/uploads/bannergridmsnatal25.jpg"
         }
       ]
     },
