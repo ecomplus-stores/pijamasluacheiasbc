@@ -28,6 +28,11 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bannergridmsnatal25.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/ms-natal/",
+          "mobile_img": "/img/uploads/bannergridmsnatal25.jpg"
+        },
+        {
           "img": "/img/uploads/bannergridmsakita.jpg",
           "link": "https://pijamasluacheiasbc.com.br/ms-sempre-juntos",
           "mobile_img": "/img/uploads/bannergridmsakita.jpg"
@@ -69,11 +74,6 @@
         {
           "img": "/img/uploads/bannergridmscaranguejo.jpg",
           "link": "https://pijamasluacheiasbc.com.br/ms-caranguejos/"
-        },
-        {
-          "img": "/img/uploads/bannergridmsnatal25.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/ms-natal/",
-          "mobile_img": "/img/uploads/bannergridmsnatal25.jpg"
         }
       ]
     },
