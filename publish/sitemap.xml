@@ -29306,6 +29306,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/mensageiro-dos-sonhos-pijama-de-alca-estampa-de-flor-algodao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/marca/lua-cheia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -29516,13 +29522,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/privacidade</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -29576,6 +29582,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -29585,12 +29597,6 @@
       <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
