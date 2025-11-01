@@ -30398,6 +30398,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -30407,12 +30413,6 @@
       <loc>https://www.pijamasluacheiasbc.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
