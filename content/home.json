@@ -38,6 +38,10 @@
           "mobile_img": "/img/uploads/bannergridmsakita.jpg"
         },
         {
+          "img": "/img/uploads/bannergridreccobichinhos.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/recco-bichinhos"
+        },
+        {
           "img": "/img/uploads/bannergridreccocarinhojpg.jpg",
           "link": "https://pijamasluacheiasbc.com.br/recco-new-skin-carinho"
         },
@@ -78,10 +82,6 @@
         {
           "img": "/img/uploads/bannergridmscaranguejo.jpg",
           "link": "https://pijamasluacheiasbc.com.br/ms-caranguejos/"
-        },
-        {
-          "img": "/img/uploads/bannergridreccobichinhos.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/recco-bichinhos"
         }
       ]
     },
