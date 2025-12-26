@@ -10,14 +10,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktopfamilia.jpg",
-          "mobile_img": "/img/uploads/mobilefamilia.jpg"
+          "img": "/img/uploads/fimdeanobannerdesktop.jpg",
+          "mobile_img": "/img/uploads/fimdeanobannermobile.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/fimdeanobannerdesktop.jpg",
-          "mobile_img": "/img/uploads/fimdeanobannermobile.jpg"
+          "img": "/img/uploads/desktopfamilia.jpg",
+          "mobile_img": "/img/uploads/mobilefamilia.jpg"
         }
       ]
     },
