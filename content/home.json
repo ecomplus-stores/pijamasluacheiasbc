@@ -12,6 +12,12 @@
           "end": "",
           "img": "/img/uploads/desktopfamilia.jpg",
           "mobile_img": "/img/uploads/mobilefamilia.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/fimdeanobannerdesktop.jpg",
+          "mobile_img": "/img/uploads/fimdeanobannermobile.jpg"
         }
       ]
     },
