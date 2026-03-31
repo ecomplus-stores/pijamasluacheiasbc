@@ -112,9 +112,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktopliveorigins.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/marca/live",
-          "mobile_img": "/img/uploads/mobileliveorigins.jpg"
+          "img": "/img/uploads/liveinverno26.jpg",
+          "mobile_img": "/img/uploads/liveoutono26mobile.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/marca/live"
         },
         {
           "start": "",
@@ -136,13 +136,6 @@
           "img": "/img/uploads/desktopzeroacucar.jpg",
           "link": "https://pijamasluacheiasbc.com.br/marca/zero-acucar",
           "mobile_img": "/img/uploads/mobilezeoacucar.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/liveinverno26.jpg",
-          "mobile_img": "/img/uploads/liveoutono26mobile.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/marca/live"
         }
       ]
     },
