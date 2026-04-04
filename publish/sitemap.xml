@@ -33896,6 +33896,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/lua-cheia-pijama-feminino-moletinho-blusa-mescla-calca-ovelha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/marca/lua-cheia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -34100,13 +34106,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -34118,7 +34124,7 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/privacidade</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -34148,15 +34154,15 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
