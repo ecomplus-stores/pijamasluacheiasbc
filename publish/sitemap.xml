@@ -4838,12 +4838,6 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/malwee-legging-em-moletom-stretch-flanelado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/malwee-conjunto-happy-times-moletom-flanelado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -36429,6 +36423,18 @@
   
     <url>
       <loc>https://www.pijamasluacheiasbc.com.br/malwee-calca-legging-basica-em-algodao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/malwee-legging-em-moletom-stretch-flanelado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/malwee-legging-em-moletom-stretch-flanelado-ii</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
