@@ -4460,12 +4460,6 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/malwee-regata-basica-decote-redondo-canelado-de-viscose</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/mensageiro-dos-sonhos-bandana-gravatinha-capivaras</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -36458,6 +36452,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/malwee-regata-basica-decote-redondo-canelado-de-viscose</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -36518,6 +36518,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -36531,12 +36537,6 @@
   
     <url>
       <loc>https://www.pijamasluacheiasbc.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
