@@ -4376,12 +4376,6 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/malwee-blusa-basica-baby-look-algodao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/mensageiro-dos-sonhos-fronha-estampa-capivaras</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -36458,7 +36452,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/malwee-blusa-basica-baby-look-algodao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -36476,13 +36476,7 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -36500,13 +36494,19 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/termos</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -36542,13 +36542,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
