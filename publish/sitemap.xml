@@ -36884,6 +36884,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/she-mash-camiseta-infantil-manga-longa-protecao-uv-rosa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -36896,13 +36902,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/faq</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -36950,15 +36956,15 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
