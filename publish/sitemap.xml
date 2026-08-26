@@ -36956,7 +36956,7 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/contato</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -36968,7 +36968,7 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/faq</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -37034,13 +37034,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
