@@ -17048,7 +17048,7 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/hope-sutia-triangulo-com-bojo-removivel-detalhe-renda-modal-celeste</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/hope-sutia-triangulo-com-bojo-detalhe-renda-modal-celeste</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -31196,13 +31196,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/hope-sutia-triangulo-bojo-removivel-detalhe-renda-modal</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/hope-sutia-triangulo-bojo-detalhe-renda-modal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/hope-sutia-triangulo-bojo-removivel-detalhe-renda-modal-verde-eucalipto</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/hope-sutia-triangulo-bojo-detalhe-renda-modal-verde-eucalipto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -37022,13 +37022,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/termos</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/trocas</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -37070,15 +37070,15 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
