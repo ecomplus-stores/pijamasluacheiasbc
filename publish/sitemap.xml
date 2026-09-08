@@ -37208,13 +37208,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+      <loc>https://www.pijamasluacheiasbc.com.br/mensageiro-dos-sonhos-pijama-manga-curta-touch-light-sonhos-de-fofura-estampa-ursinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -37226,13 +37226,19 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/faq</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -37292,12 +37298,6 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -37307,6 +37307,12 @@
       <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
