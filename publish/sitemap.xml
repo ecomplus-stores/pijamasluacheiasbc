@@ -14678,12 +14678,6 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/liz-blusa-decote-quadrado-microfibra</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/daniela-tombini-blusa-feminina-cut-out-trancoso</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -37328,6 +37322,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/liz-blusa-decote-quadrado-microfibra-malta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -37418,15 +37418,15 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
