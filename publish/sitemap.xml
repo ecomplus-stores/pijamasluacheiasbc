@@ -37838,9 +37838,9 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+      <loc>https://www.pijamasluacheiasbc.com.br/mash-sunga-boxer-estampada-faixas-centralizadas-azul-marinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -37875,6 +37875,12 @@
   
     <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
