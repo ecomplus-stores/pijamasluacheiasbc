@@ -34,6 +34,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bannergriddtveleiro.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/dt-veleiro"
+        },
+        {
           "img": "/img/uploads/bannergridutfritas.jpg",
           "link": "https://pijamasluacheiasbc.com.br/universo-toque-frita"
         },
@@ -92,10 +96,6 @@
         {
           "img": "/img/uploads/bannergridmscaranguejo.jpg",
           "link": "https://pijamasluacheiasbc.com.br/ms-caranguejos/"
-        },
-        {
-          "img": "/img/uploads/bannergriddtveleiro.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/dt-veleiro"
         }
       ]
     },
