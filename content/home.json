@@ -140,6 +140,14 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6801282cef51eb1c90d4b328:categories:Moda Feminina:/moda-feminina/",
+      "title": "Moda Fitness"
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 12,
@@ -182,14 +190,6 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 0
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6801282cef51eb1c90d4b328:categories:Moda Feminina:/moda-feminina/",
-      "title": "Moda Fitness"
     }
   ]
 }
