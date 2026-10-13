@@ -34,6 +34,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bannergridveggilooney2.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/veggi-looney-tunes/"
+        },
+        {
+          "img": "/img/uploads/bannergridveggihp2.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/veggi-hogwarts/"
+        },
+        {
           "img": "/img/uploads/bannergridlcnavegando.jpg",
           "link": "https://pijamasluacheiasbc.com.br/search?term=Navegando"
         },
@@ -44,14 +52,6 @@
         {
           "img": "/img/uploads/bannergridutfritas.jpg",
           "link": "https://pijamasluacheiasbc.com.br/universo-toque-frita"
-        },
-        {
-          "img": "/img/uploads/bannergridveggilooney2.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/veggi-looney-tunes/"
-        },
-        {
-          "img": "/img/uploads/bannergridveggihp2.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/veggi-hogwarts/"
         },
         {
           "img": "/img/uploads/bannergridmsnatal25.jpg",
