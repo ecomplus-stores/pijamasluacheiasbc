@@ -46,6 +46,10 @@
           "img": "/img/uploads/bannergridveggisupeman.jpg"
         },
         {
+          "img": "/img/uploads/bannergridmalweetoystory.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/malwee-toy-story"
+        },
+        {
           "link": "https://pijamasluacheiasbc.com.br/lc-estrela-xadrez",
           "img": "/img/uploads/bannergridlcestrelaxadrez.jpg"
         },
@@ -112,10 +116,6 @@
         {
           "img": "/img/uploads/bannergridmscaranguejo.jpg",
           "link": "https://pijamasluacheiasbc.com.br/ms-caranguejos/"
-        },
-        {
-          "img": "/img/uploads/bannergridmalweetoystory.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/malwee-toy-story"
         }
       ]
     },
