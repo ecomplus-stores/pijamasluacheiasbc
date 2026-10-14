@@ -50,6 +50,14 @@
           "link": "https://pijamasluacheiasbc.com.br/malwee-toy-story"
         },
         {
+          "img": "/img/uploads/bannergridmsmaratonaeco.jpg",
+          "link": "https://pijamasluacheiasbc.com.br/ms-maratona-eco"
+        },
+        {
+          "link": "https://pijamasluacheiasbc.com.br/ms-teddy-bear",
+          "img": "/img/uploads/bannergridmsteddybear.jpg"
+        },
+        {
           "link": "https://pijamasluacheiasbc.com.br/lc-estrela-xadrez",
           "img": "/img/uploads/bannergridlcestrelaxadrez.jpg"
         },
@@ -116,14 +124,6 @@
         {
           "img": "/img/uploads/bannergridmscaranguejo.jpg",
           "link": "https://pijamasluacheiasbc.com.br/ms-caranguejos/"
-        },
-        {
-          "img": "/img/uploads/bannergridmsmaratonaeco.jpg",
-          "link": "https://pijamasluacheiasbc.com.br/ms-maratona-eco"
-        },
-        {
-          "link": "https://pijamasluacheiasbc.com.br/ms-teddy-bear",
-          "img": "/img/uploads/bannergridmsteddybear.jpg"
         }
       ]
     },
