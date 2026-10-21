@@ -13,6 +13,10 @@ on:
       - '.github/build-and-deploy'
       - '.github/workflows/build-and-deploy.yml'
 
+concurrency:
+  group: build-and-deploy
+  cancel-in-progress: false
+
 jobs:
   build-and-deploy:
     name: Build Storefront and deploy
@@ -168,6 +172,10 @@ jobs:
           git commit --no-verify --allow-empty -m "Reset dist [skip ci]"
           git push "${REMOTE_REPO}" HEAD:dist --force --follow-tags
           git checkout master
+
+      - name: Fetch triggering commit for deploy action
+        continue-on-error: true
+        run: git fetch --no-tags --depth=1 origin ${{ github.sha }}
 
       - name: Push to branch dist to trigger deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
