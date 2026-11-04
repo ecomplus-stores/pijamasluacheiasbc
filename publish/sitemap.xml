@@ -38552,19 +38552,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -38600,6 +38594,12 @@
     </url>
   
     <url>
+      <loc>https://www.pijamasluacheiasbc.com.br/pages/como-cuidar-do-seu-produto</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.pijamasluacheiasbc.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -38612,13 +38612,13 @@
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://www.pijamasluacheiasbc.com.br/blog</loc>
+      <loc>https://www.pijamasluacheiasbc.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
